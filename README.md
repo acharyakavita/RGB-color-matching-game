@@ -1,5 +1,6 @@
 # RGB-color-matching-game
-This is a game to match the color given in RGB format with the actual color
+This is a game to match the color given in RGB format with the actual color.
+It is live at https://rgb-game-bc056.firebaseapp.com/
 
 # steps to play:
 1. Download or clone this repository
